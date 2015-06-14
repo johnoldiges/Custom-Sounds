@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Custom Sounds"
+	"version"			"2"
+	"up_date"			"27th August 2014"
+	"author_name"			"John Oldiges"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Custom Sounds for Gmod"
+}
+
